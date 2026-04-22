@@ -31,16 +31,16 @@ By restricting the training space purely to ML system design, the model achieves
 
 ## 📸 UI Showcase
 
-*(Note: Replace the image paths below with the actual paths to your attached screenshots!)*
+> **Note:** To display images here, create a `screenshots/` folder in the repository and upload your images, then uncomment the lines below.
 
 ### Landing & Authentication
-![Landing Page Screenshot](screenshots/landing_page.png)
+<!-- ![Landing Page Screenshot](screenshots/landing_page.png) -->
 
 ### Expert ML Planning Interface
-![Chat Interface Screenshot](screenshots/chat_interface.png)
+<!-- ![Chat Interface Screenshot](screenshots/chat_interface.png) -->
 
 ### Beautiful Markdown Formatting
-![Markdown Output Screenshot](screenshots/markdown_output.png)
+<!-- ![Markdown Output Screenshot](screenshots/markdown_output.png) -->
 
 ---
 
